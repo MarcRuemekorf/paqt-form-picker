@@ -22,19 +22,12 @@ $ npm run generate
 
 ### `components`
 
-Component setup is based on [Atomic Design by Brad Frost](https://atomicdesign.bradfrost.com/). 
-
-This project contains 2 Atoms 
-- InputRadioGroup.vue
-- InputDatePicker.vue
-
-And 1 Molecule
-- CheckAvailabilityForm.vue
+Component setup is based on [Atomic Design by Brad Frost](https://atomicdesign.bradfrost.com/).
 
 ### `pages`
 
-The index page was the only necessary page as this is a single page application.
+This is a single page application.
 
 ### `plugins`
 
-The plugins directory contains a custom plugin for Pikaday's datepicker component.
+The plugins directory contains one custom plugin for a third party component.
